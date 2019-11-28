@@ -1,0 +1,6 @@
+﻿  Machbase_dev.cpp
+Machbase_dev.obj : error LNK2019: _SQLAppendOpen@12 외부 기호(참조 위치: "int __cdecl appendOpen(void *)" (?appendOpen@@YAHPAX@Z) 함수)에서 확인하지 못했습니다.
+Machbase_dev.obj : error LNK2019: _SQLAppendDataV2@8 외부 기호(참조 위치: "int __cdecl appendData(void *)" (?appendData@@YAHPAX@Z) 함수)에서 확인하지 못했습니다.
+Machbase_dev.obj : error LNK2019: _SQLAppendClose@12 외부 기호(참조 위치: "int __cdecl appendClose(void *)" (?appendClose@@YAHPAX@Z) 함수)에서 확인하지 못했습니다.
+C:\Machbase\machbase_home\lib\machbasecli.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\user\source\repos\Machbase_dev\Debug\Machbase_dev.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.
